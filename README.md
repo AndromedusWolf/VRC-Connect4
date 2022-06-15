@@ -19,4 +19,6 @@ It is VERY important that you have [Udonsharp](https://github.com/vrchat-communi
 ## Set-Up
 Simply import the Unity package into your Unity project, navigate to the Connect-4 folder, select the Connect-4 prefab and drag and drop the prefab into the scene! Simple as that!
 
+![Desktop Screenshot 2022 06 15 - 11 59 21 14 (2)](https://user-images.githubusercontent.com/99851805/173873700-d3882ff4-d36f-4c98-af32-7a1631467e40.jpg)
+
 Please note that the game chips are pickup objects with gravity enabled. This means that you must put the game on a solid surface (one with colliders), else, the game chips will just fall through the surface you placed the game on.
